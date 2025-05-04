@@ -15,8 +15,8 @@ I have not tried importing this into a project. Does it even work? 🤔
 
 Also, there is no release. 😱
 
-Also, there is literally ONE function (not counting `main` or tests).
-I guess you could copy it into your project, you weirdo... 
+Also, there is very little going on in here.
+I guess you could copy the bits you need into your project, you weirdo... 
 
 On that matter: Why not just use go as intended or implement these functions on your own?
 Millions of computer science students were forced to implement these basics, you can do it as well!
