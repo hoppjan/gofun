@@ -18,8 +18,8 @@ Also, there is no release. 😱
 Also, there is literally ONE function (not counting `main` or tests).
 I guess you could copy it into your project, you weirdo... 
 
-On that matter: There is no license file. Not that I believe it matters,
-it's hard to infringe on concepts computer scientists borrowed from mathematicians! 🧑‍🔬
+On that matter: Why not just use go as intended or implement these functions on your own?
+Millions of computer science students were forced to implement these basics, you can do it as well!
 
 This is under heavy construction 🚧 or barely tested to work, I haven't decided yet.
 Maybe both?
