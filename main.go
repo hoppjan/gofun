@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World!")
+	numbers := []int{1, 2, 3, 4, 5, 6, 7, 8, 9}
+	numbers = Map(numbers, func(n int) int { return n * 10 })
+	fmt.Println(numbers)
 }
