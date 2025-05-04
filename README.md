@@ -1,0 +1,27 @@
+# GoFun: Fun λ with Go 
+
+Doing what Go's creators did not want us to do: \
+Functional programming in Go!
+
+## Why, though? 🤔
+
+Just goofing (or goofin', goofun', gofun! Get it?!) around, hehehe :P
+
+It's a bit like meditation, because uni beat these concepts so deep into my skull. 💀
+
+## Should I use this in my project? 
+
+I have not tried importing this into a project. Does it even work? 🤔
+
+Also, there is no release. 😱
+
+Also, there is literally ONE function (not counting `main` or tests).
+I guess you could copy it into your project, you weirdo... 
+
+On that matter: There is no license file. Not that I believe it matters,
+it's hard to infringe on concepts computer scientists borrowed from mathematicians! 🧑‍🔬
+
+This is under heavy construction 🚧 or barely tested to work, I haven't decided yet.
+Maybe both?
+
+**Conclusion:** Have you lost your mind!? **_No!_** ⛔️
