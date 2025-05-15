@@ -1,4 +1,4 @@
-package main
+package gofun
 
 // Map applies the function f on each element t in ts, transforming each t
 // from type T to type U, returning a new list of Us.

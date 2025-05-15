@@ -1,4 +1,4 @@
-package main
+package gofun
 
 // All checks if all elements in the slice satisfy the given predicate function.
 // Returns true if all pass, otherwise false.

@@ -1,4 +1,4 @@
-package main
+package gofun
 
 import (
 	"reflect"

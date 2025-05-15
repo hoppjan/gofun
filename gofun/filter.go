@@ -1,4 +1,4 @@
-package main
+package gofun
 
 // Filter filters a slice for the given predicate and returns a new slice
 // that only contains the ones that match the predicate.

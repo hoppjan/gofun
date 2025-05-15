@@ -1,4 +1,4 @@
-package main
+package gofun
 
 // None checks if no elements in the slice satisfy the given predicate function.
 // Returns true if none matches, otherwise false.
